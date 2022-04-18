@@ -1,0 +1,4 @@
+# TGetPwd
+Exemplo muito simples de uso de CSS em um componente visual para demonstrar a versatilidade do ADVPL.
+
+![Demo](https://user-images.githubusercontent.com/55159124/163416463-834498f7-b90f-4bc6-ad93-d346c8e2f72e.gif)
